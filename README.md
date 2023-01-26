@@ -1,7 +1,8 @@
 # 数据结构与算法
 
 ## 链表
-、、、C++
+
+''' c++
 struct student
 {
 int sum;
@@ -28,5 +29,5 @@ int main()
             head=head->next;
         }
 }
-、、、
+'''
 

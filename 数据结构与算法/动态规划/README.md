@@ -139,6 +139,8 @@ int main()
 dp[1][1]+max(dp[2][1],dp[2][2]);
 
 由此得出dp[i][j]=dp[i][j]+max(dp[i+1][j],dp[i+1][j+1]);
+![image](https://user-images.githubusercontent.com/109082987/215938590-64bcd4a0-eea1-4831-858d-1dd31edc2e5a.png)
+
 
 ```c++
 #include<iostream>
@@ -187,6 +189,8 @@ int main()
 在a[1~(i-1)]满足条件时，
 
 我们需要求出dp[i]=max(dp[1~(i-1)])
+
+![image](https://user-images.githubusercontent.com/109082987/215938652-b4f13eff-6738-4756-a8e0-dead61e844d3.png)
 
 ```c++
 #include<iostream>

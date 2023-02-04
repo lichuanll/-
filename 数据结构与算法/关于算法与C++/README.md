@@ -1,28 +1,28 @@
-[-关于算法与C++](https://github.com/lichuanll/-/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC++/README.md#%E8%BE%93%E5%87%BA%E5%85%B3%E9%94%AE%E5%AD%97cout) 
+[--关于算法与C++](https://github.com/lichuanll/-/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC++/README.md#%E8%BE%93%E5%87%BA%E5%85%B3%E9%94%AE%E5%AD%97cout) 
   
-[--C++简介](https://github.com/lichuanll/-/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC%2B%2B#c%E7%AE%80%E4%BB%8B)
+[----C++简介](https://github.com/lichuanll/-/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC%2B%2B#c%E7%AE%80%E4%BB%8B)
   
-[-C++常用头文件](https://github.com/lichuanll/-/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC%2B%2B#c%E5%B8%B8%E7%94%A8%E5%A4%B4%E6%96%87%E4%BB%B6)
+[----C++常用头文件](https://github.com/lichuanll/-/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC%2B%2B#c%E5%B8%B8%E7%94%A8%E5%A4%B4%E6%96%87%E4%BB%B6)
   
-[-C++简约输入输出](https://github.com/lichuanll/-/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC%2B%2B#c%E7%AE%80%E7%BA%A6%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA)
+[----C++简约输入输出](https://github.com/lichuanll/-/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC%2B%2B#c%E7%AE%80%E7%BA%A6%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA)
 	
-[--输入关键字：cin](https://github.com/lichuanll/-/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC%2B%2B#%E8%BE%93%E5%85%A5%E5%85%B3%E9%94%AE%E5%AD%97cin)
+[------输入关键字：cin](https://github.com/lichuanll/-/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC%2B%2B#%E8%BE%93%E5%85%A5%E5%85%B3%E9%94%AE%E5%AD%97cin)
 
-[--输出关键字：cout](https://github.com/lichuanll/-/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC%2B%2B#%E8%BE%93%E5%87%BA%E5%85%B3%E9%94%AE%E5%AD%97cout)
+[------输出关键字：cout](https://github.com/lichuanll/-/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC%2B%2B#%E8%BE%93%E5%87%BA%E5%85%B3%E9%94%AE%E5%AD%97cout)
 
- [--注意事项](https://github.com/lichuanll/-/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC%2B%2B#%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)
+ [------注意事项](https://github.com/lichuanll/-/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC%2B%2B#%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)
  
- [-输入输出拓展](https://github.com/lichuanll/-/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC%2B%2B#%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E6%8B%93%E5%B1%95)
+ [----输入输出拓展](https://github.com/lichuanll/-/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC%2B%2B#%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E6%8B%93%E5%B1%95)
  
- [--说明](https://github.com/lichuanll/-/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC%2B%2B#%E8%AF%B4%E6%98%8E)
+ [------说明](https://github.com/lichuanll/-/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC%2B%2B#%E8%AF%B4%E6%98%8E)
  
- [--运作流程](https://github.com/lichuanll/-/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC%2B%2B#%E8%BF%90%E4%BD%9C%E6%B5%81%E7%A8%8B)
+ [------运作流程](https://github.com/lichuanll/-/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC%2B%2B#%E8%BF%90%E4%BD%9C%E6%B5%81%E7%A8%8B)
  
- [--用处](https://github.com/lichuanll/-/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC%2B%2B#%E7%94%A8%E5%A4%84)
+ [------用处](https://github.com/lichuanll/-/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC%2B%2B#%E7%94%A8%E5%A4%84)
  
- [-C++的一些算法工具](https://github.com/lichuanll/-/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC%2B%2B#c%E7%9A%84%E4%B8%80%E4%BA%9B%E7%AE%97%E6%B3%95%E5%B7%A5%E5%85%B7)
+ [----C++的一些算法工具](https://github.com/lichuanll/-/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC%2B%2B#c%E7%9A%84%E4%B8%80%E4%BA%9B%E7%AE%97%E6%B3%95%E5%B7%A5%E5%85%B7)
  
- [--sort](https://github.com/lichuanll/-/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC%2B%2B#sort)
+ [------sort](https://github.com/lichuanll/-/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC%2B%2B#sort)
   []()
   []()
   []()

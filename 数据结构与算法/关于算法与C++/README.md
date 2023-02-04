@@ -1,4 +1,4 @@
-- # [关于算法与C++]() 
+- # [关于算法与C++](https://github.com/lichuanll/-/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC++/README.md#%E8%BE%93%E5%87%BA%E5%85%B3%E9%94%AE%E5%AD%97cout) 
 # 关于算法与C++
 ## C++简介
 一种面向对象编程的语言（oop），但是在算法中我们不关心面向对象。

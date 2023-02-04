@@ -23,12 +23,43 @@
  [----C++的一些算法工具](https://github.com/lichuanll/-/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC%2B%2B#c%E7%9A%84%E4%B8%80%E4%BA%9B%E7%AE%97%E6%B3%95%E5%B7%A5%E5%85%B7)
  
  [------sort](https://github.com/lichuanll/-/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC%2B%2B#sort)
-  []()
-  []()
-  []()
-  []()
-  []()
-  []()
+ 
+ [--------介绍](https://github.com/lichuanll/-/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC++/README.md#%E4%BB%8B%E7%BB%8D)
+ 
+  [--------普通数组排序](https://github.com/lichuanll/-/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC++/README.md#%E6%99%AE%E9%80%9A%E6%95%B0%E7%BB%84%E6%8E%92%E5%BA%8F)
+  
+  [--------对结构体数组进行排序](https://github.com/lichuanll/-/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC++/README.md#%E5%AF%B9%E7%BB%93%E6%9E%84%E4%BD%93%E6%95%B0%E7%BB%84%E8%BF%9B%E8%A1%8C%E6%8E%92%E5%BA%8F)
+  
+  [--------关于函数指针的一些拓展](https://github.com/lichuanll/-/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC++/README.md#%E5%85%B3%E4%BA%8E%E5%87%BD%E6%95%B0%E6%8C%87%E9%92%88%E7%9A%84%E4%B8%80%E4%BA%9B%E6%8B%93%E5%B1%95)
+  
+  [------二分查找](https://github.com/lichuanll/-/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC++/README.md#%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE)
+  
+  [--------介绍](https://github.com/lichuanll/-/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC++/README.md#%E4%BB%8B%E7%BB%8D-1)
+  
+  [--------查找元素是否存在](https://github.com/lichuanll/-/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC++/README.md#%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0%E6%98%AF%E5%90%A6%E5%AD%98%E5%9C%A8)
+  
+  [--------查找第一个大于等于某个值的元素](https://github.com/lichuanll/-/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC++/README.md#%E6%9F%A5%E6%89%BE%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%A4%A7%E4%BA%8E%E7%AD%89%E4%BA%8E%E6%9F%90%E4%B8%AA%E5%80%BC%E7%9A%84%E5%85%83%E7%B4%A0)
+  
+  [--------查找第一个大于某个值的元素](https://github.com/lichuanll/-/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC++/README.md#%E6%9F%A5%E6%89%BE%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%A4%A7%E4%BA%8E%E6%9F%90%E4%B8%AA%E5%80%BC%E7%9A%84%E5%85%83%E7%B4%A0)
+  
+  [------全排列](https://github.com/lichuanll/-/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC++/README.md#%E5%85%A8%E6%8E%92%E5%88%97)
+  
+  [--------介绍](https://github.com/lichuanll/-/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC++/README.md#%E4%BB%8B%E7%BB%8D-2)
+  
+  [--------普通数组全排列](https://github.com/lichuanll/-/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC++/README.md#%E6%99%AE%E9%80%9A%E6%95%B0%E7%BB%84%E5%85%A8%E6%8E%92%E5%88%97)
+  
+  [--------对结构体数组全排列](https://github.com/lichuanll/-/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC++/README.md#%E5%AF%B9%E7%BB%93%E6%9E%84%E4%BD%93%E6%95%B0%E7%BB%84%E5%85%A8%E6%8E%92%E5%88%97)
+  
+  [----C++容器](https://github.com/lichuanll/-/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC++/README.md#c%E5%AE%B9%E5%99%A8)
+  
+  [------vector](https://github.com/lichuanll/-/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC++/README.md#vector)
+  
+  [------stack](https://github.com/lichuanll/-/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC++/README.md#stack)
+  
+  [------queue](https://github.com/lichuanll/-/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC++/README.md#queue)
+  
+  [------priority_queue](https://github.com/lichuanll/-/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC++/README.md#priority_queue)
+  
   []()
   
 # 关于算法与C++
@@ -1187,6 +1218,7 @@ int main(){
     cout << qu.top() << "队头元素" << endl;
    qu.pop();
 }
+```
 ### 关于模板的拓展 
 模板分为函数模板和类模板，我们使用的工具大部分为类模板，
 

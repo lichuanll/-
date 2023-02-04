@@ -6,7 +6,7 @@
 
 ## 数据结构与算法
 - ### [链表](https://github.com/lichuanll/-/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E9%93%BE%E8%A1%A8)
-- ### [树](https://github.com/lichuanll/-/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%8F%89%E6%A0%91)
+- ### [二叉树](https://github.com/lichuanll/-/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%8F%89%E6%A0%91)
 - ### [时间复杂度与空间复杂度以及几种排序](https://github.com/lichuanll/-/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6%E4%B8%8E%E7%A9%BA%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6%E4%BB%A5%E5%8F%8A%E5%87%A0%E7%A7%8D%E6%8E%92%E5%BA%8F)
 - ### [关于算法与C++](https://github.com/lichuanll/-/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC%2B%2B)
 - ### [前缀和与差分](https://github.com/lichuanll/-/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%89%8D%E7%BC%80%E5%92%8C%E4%B8%8E%E5%B7%AE%E5%88%86/README.md)

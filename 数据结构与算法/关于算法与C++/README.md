@@ -60,8 +60,9 @@
   
   [------priority_queue](https://github.com/lichuanll/-/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC++/README.md#priority_queue)
   
-  []()
-  
+  [------关于模板的拓展](https://github.com/lichuanll/-/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC++/README.md#%E5%85%B3%E4%BA%8E%E6%A8%A1%E6%9D%BF%E7%9A%84%E6%8B%93%E5%B1%95)
+  [--------函数模板](https://github.com/lichuanll/-/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC++/README.md#%E5%87%BD%E6%95%B0%E6%A8%A1%E6%9D%BF)
+  [--------类模板](https://github.com/lichuanll/-/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95%E4%B8%8EC++/README.md#%E7%B1%BB%E6%A8%A1%E6%9D%BF)
 # 关于算法与C++
 ## C++简介
 一种面向对象编程的语言（oop），但是在算法中我们不关心面向对象。

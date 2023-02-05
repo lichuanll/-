@@ -80,11 +80,16 @@
 严格意义上来说我们学的并不是C++而是C  +  工具。
 
 ## C++常用头文件
-### include<iostream>
+### #include<iostream>
+	#include<iostream>
 类比#include<stdio.h>就可以
+	
 ### #include<algorithm>
+	#include<algorithm>
 常用的算法工具头文件
+	
 ### #include<bits/stdc++.h>
+	
 devc里有的万能头文件
 
 

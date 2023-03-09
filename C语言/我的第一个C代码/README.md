@@ -122,7 +122,108 @@ https://www.yuque.com/tumaoer-201rr/hyauvg/udkhoi
 ![image](https://user-images.githubusercontent.com/109082987/223957141-c98655bc-2e3b-4ed5-a51d-1d75c7cfe14e.png)
 
 # 习题课
+## 7-1 基础数据类型的输入（1）整型
+```C
+#include<stdio.h>
+int main(void){
+    int a;
+    scanf("%d", &a);
+    
+    printf("hello , %d!", a);
+    
+    return 0;
+}
+//输出中的空格，标点，需要转义的符号
+```
+## 7-2 基础数据类型的输入（2）浮点型
+```c
+#include<stdio.h>
+int main(){
+    double f1,f2;
+    scanf("%lf %lf", &f1,&f2);
+    
+    printf("hello , %.2lf and %.2lf!", f1,f2);
+    
+    return 0;
+}
+//输出数字的控制
+//小数位数
+//整数位数
+//左/右对齐
+```
+## 7-3 基础数据类型的输入（3）字符型
+```c
+#include<stdio.h>
+int main(){
+    char a,b,c;
+    scanf("%c%c%c", &a,&b,&c);
+    
+    printf("hello , %c , %c and %c!", a,b,c);
+    
+    return 0;
+}
+```
+## 7-4 基础数据类型的输入（5）再说一声"Hello World!"
+```c
+#include<stdio.h>
+int main(void){
+    printf("\"Hello World!\"");
+    return 0;
+}
+```
+## 7-5 mm-dd-yyyy to yyyy-mm-dd
+```c
+#include<stdio.h>
+int main(void){
+    int y,m,d;
+    scanf("%d-%d-%d", &m,&d,&y);//注意输入输出时题目要求顺序
+    printf("%04d-%02d-%02d", y,m,d);
+    
+    return 0;
+}
+```
+## 7-6 sdut-C语言实验 -交换两个整数的值
+```c
+#include<stdio.h>
+int main(void){
+    int a, b;
+    scanf("%d %d", &a,&b);
+    printf("%d %d", b,a);
+    
+    return 0;
+}
 
+#include<stdio.h>
+int main(void){
+    int a, b;
+    scanf("%d %d", &a,&b);
+    int c;
+    c = a;
+    a = b;
+    b = c;
+    printf("%d %d", a,b);
+    
+    return 0;
+}
+```
+## 7-7 运算符与表达式
+```c
+#include<stdio.h>
+int main(void){
+    
+    int a;
+    scanf("%d", &a);
+    
+    int b,s,g;
+    b =a /100;
+    s =(a - 100*b)/10;
+    g = a % 10;
+    
+    printf("%d%d%d%d%d", b,b,s,g,g);
+    
+    return 0;
+}
+```
 ## 7-8计算球的体积和表面积
 ```C
 #include<stdio.h>

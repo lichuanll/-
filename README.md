@@ -6,7 +6,7 @@
 - ### [循环分支](https://github.com/lichuanll/-/tree/main/C%E8%AF%AD%E8%A8%80/%E5%BE%AA%E7%8E%AF%E5%88%86%E6%94%AF%E7%BB%93%E6%9E%84)
 - ### [数组](https://github.com/lichuanll/-/tree/main/C%E8%AF%AD%E8%A8%80/%E6%95%B0%E7%BB%84)
 - ### [函数](https://github.com/lichuanll/-/tree/main/C%E8%AF%AD%E8%A8%80/%E5%BE%AA%E7%8E%AF%E5%88%86%E6%94%AF%E7%BB%93%E6%9E%84)
-- ### [结构体]()
+- ### [结构体](https://github.com/lichuanll/-/tree/main/C%E8%AF%AD%E8%A8%80/%E7%BB%93%E6%9E%84%E4%BD%93)
 - ### [指针](https://github.com/lichuanll/-/tree/main/C%E8%AF%AD%E8%A8%80/%E6%8C%87%E9%92%88)
 
 ## 数据结构与算法
